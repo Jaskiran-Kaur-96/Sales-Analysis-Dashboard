@@ -1,4 +1,4 @@
-# 📊 Superstore Sales & Profit Analysis Dashboard
+# 📊 Sales Analysis Dashboard
 
 
 ### 1. Project Title / Headline

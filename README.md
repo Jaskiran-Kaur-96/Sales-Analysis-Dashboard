@@ -123,7 +123,7 @@ Data-Driven Decision Making: Enable stakeholders to make informed strategic deci
 
 Executive Summary Dashboard
 
-![Executive Summary]()
+![Executive Summary](https://github.com/Jaskiran-Kaur-96/Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20Page-1%20Executive%20Analysis.png)
 
 Profit Analysis Dashboard
 

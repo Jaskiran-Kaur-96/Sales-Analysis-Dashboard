@@ -127,4 +127,4 @@ Executive Summary Dashboard
 
 Profit Analysis Dashboard
 
-![Profit Analysis]()
+![Profit Analysis](https://github.com/Jaskiran-Kaur-96/Sales-Analysis-Dashboard/blob/main/Snapshot%20of%20Page-2%20Profit%20Analysis.png)

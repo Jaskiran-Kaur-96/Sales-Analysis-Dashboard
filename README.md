@@ -3,7 +3,7 @@
 
 ### 1. Project Title / Headline
 
-📈 Superstore Sales & Profit Analysis Dashboard
+📈 Sales Analysis Dashboard
 
 A comprehensive and interactive Power BI dashboard built to analyze sales performance, profitability, customer behavior, and regional trends using the Superstore Sales Dataset. The dashboard enables stakeholders to monitor key business metrics and uncover insights that drive strategic decision-making.
 
@@ -11,7 +11,7 @@ A comprehensive and interactive Power BI dashboard built to analyze sales perfor
 
 ### 2. Short Description / Purpose
 
-The Superstore Sales & Profit Analysis Dashboard is a visually engaging Power BI report designed to provide a complete overview of sales and profit performance across products, customers, categories, and regions. The dashboard helps business analysts, managers, and decision-makers identify growth opportunities, track business performance, and understand profitability trends.
+The Sales Analysis Dashboard is a visually engaging Power BI report designed to provide a complete overview of sales and profit performance across products, customers, categories, and regions. The dashboard helps business analysts, managers, and decision-makers identify growth opportunities, track business performance, and understand profitability trends.
 
 ---
 
